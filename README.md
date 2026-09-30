@@ -1,4 +1,4 @@
  Ola, Eu sou Cleberson                                                                                
--  🔭 Atualmente estou cursando Faculdade
-- 🌱 Atualmente estou aprendendo HTML e Python
+-  🔭 Atualmente estou cursando Analise e Desenvolvimento De Sistema
+- 🌱 Atualmente estou aprendendo HTML, CSS e Python
 
